@@ -1,5 +1,8 @@
 #django-poll-app
 
+https://docs.djangoproject.com/en/3.0/intro/tutorial03/
+Made it there to "A shortcut: render()
+
 [https://docs.djangoproject.com/en/3.0/intro/tutorial01/](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 
 ##Things I've learned
