@@ -1,7 +1,6 @@
 #django-poll-app
 
-https://docs.djangoproject.com/en/3.0/intro/tutorial03/
-Made it there to "A shortcut: render()
+https://docs.djangoproject.com/en/3.0/intro/tutorial04/
 
 [https://docs.djangoproject.com/en/3.0/intro/tutorial01/](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 
@@ -15,3 +14,4 @@ Made it there to "A shortcut: render()
 - python manage.py shell : invoke Python shell with DJANGO_SETTINGS_MODULE env. variable
 - A view is a “type” of Web page in your Django application that generally serves a specific function and has a specific template
 - A URLconf maps URL patterns to views
+- CSRF - cross site request forgeries
